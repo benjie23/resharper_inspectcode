@@ -132,6 +132,7 @@ More info: https://www.jetbrains.com/help/resharper/InspectCode.html#inspection-
 
 ### verbosity
 This parameter lets you control the level of detail in InspectCode's output.
+
 More info: https://www.jetbrains.com/help/resharper/InspectCode.html#auxiliary-parameters
 
 ### properties
